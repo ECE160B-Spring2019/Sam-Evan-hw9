@@ -8,4 +8,12 @@ Modify the class to contain an int member. Modify the constructor so that it tak
 
 Compile Steps:
 
+g++ simple.cpp <br>
+./a.exe <br>
+
 Output:
+
+object constructed. num = 1 <br>
+object constructed. num = 2 <br>
+object destroyed. num = 2 <br>
+object destroyed. num = 1 <br>
