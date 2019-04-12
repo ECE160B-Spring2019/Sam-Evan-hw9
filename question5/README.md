@@ -4,4 +4,12 @@
 
 Compile Steps:
 
+g++ emptyClass.cpp <br>
+g++ constructClass.cpp <br>
+
 Output:
+
+For emptyClass.cpp: <br>
+<br>
+For constructClass.cpp: <br>
+class created <br>
