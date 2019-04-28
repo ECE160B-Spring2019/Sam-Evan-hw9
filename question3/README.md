@@ -4,4 +4,11 @@
 
 Compile Steps:
 
+gcc henStack.cpp <br>
+./a.exe <br>
+
 Output:
+
+name of hen: Billy      size of nest: 2   age of egg: 1 <br>
+name of hen: Bob        size of nest: 5   age of egg: 3 <br>
+name of hen: Borris     size of nest: 6   age of egg: 5 <br>
